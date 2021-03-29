@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Entrega 1 Grupo4</title>
+      <link>https://javiera-cv.github.io/docs/g4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/g4/</guid>
+      <description>Entrega BareLight.</description>
+    </item>
+    
+    <item>
       <title>Entrega 2</title>
       <link>https://javiera-cv.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -41,15 +50,6 @@
       
       <guid>https://javiera-cv.github.io/docs/markdown2/</guid>
       <description>Dibujos grupo.</description>
-    </item>
-    
-    <item>
-      <title>Entrega Grupo4</title>
-      <link>https://javiera-cv.github.io/docs/g4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://javiera-cv.github.io/docs/g4/</guid>
-      <description>Entrega Grupo4.</description>
     </item>
     
   </channel>
