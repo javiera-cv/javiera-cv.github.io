@@ -22,16 +22,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://javiera-cv.github.io/docs/ejemplo/</guid>
-      <description>Estudio sillas.</description>
-    </item>
-    
-    <item>
-      <title>Entrega 1 Grupo4</title>
-      <link>https://javiera-cv.github.io/docs/g4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://javiera-cv.github.io/docs/g4/</guid>
-      <description>Entrega BareLight.</description>
+      <description>Trabajos de referentes.</description>
     </item>
     
     <item>
@@ -40,7 +31,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://javiera-cv.github.io/docs/markdown/</guid>
-      <description>Modelación sillas y familia.</description>
+      <description>Maquetas y Modelo 3D.</description>
     </item>
     
     <item>
@@ -49,7 +40,34 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://javiera-cv.github.io/docs/markdown2/</guid>
-      <description>Dibujos grupo.</description>
+      <description>Familias iteración individual.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 4</title>
+      <link>https://javiera-cv.github.io/docs/g4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/g4/</guid>
+      <description>Primer encargo grupal.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 5</title>
+      <link>https://javiera-cv.github.io/docs/dpersonal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/dpersonal/</guid>
+      <description>Trabajo final personal.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 6</title>
+      <link>https://javiera-cv.github.io/docs/g4final/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/g4final/</guid>
+      <description>Trabajo final grupal.</description>
     </item>
     
   </channel>
