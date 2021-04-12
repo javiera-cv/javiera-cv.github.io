@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mis Proyectos a la Fecha. on Javiera Caballero - Taller Producto 2021</title>
+    <link>https://javiera-cv.github.io/docs/</link>
+    <description>Recent content in Mis Proyectos a la Fecha. on Javiera Caballero - Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://javiera-cv.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrega 0</title>
+      <link>https://javiera-cv.github.io/docs/bio/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/bio/</guid>
+      <description>Un poco de mí y mis proyectos personales</description>
+    </item>
+    
+    <item>
+      <title>Entrega 1</title>
+      <link>https://javiera-cv.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/ejemplo/</guid>
+      <description>Trabajos de referentes.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 2</title>
+      <link>https://javiera-cv.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/markdown/</guid>
+      <description>Maquetas y Modelo 3D.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 3</title>
+      <link>https://javiera-cv.github.io/docs/markdown2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/markdown2/</guid>
+      <description>Familias iteración individual.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 4</title>
+      <link>https://javiera-cv.github.io/docs/g4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/g4/</guid>
+      <description>Primer encargo grupal.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 5</title>
+      <link>https://javiera-cv.github.io/docs/dpersonal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/dpersonal/</guid>
+      <description>Trabajo final personal.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 6</title>
+      <link>https://javiera-cv.github.io/docs/g4final/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javiera-cv.github.io/docs/g4final/</guid>
+      <description>Trabajo final grupal.</description>
+    </item>
+    
+  </channel>
+</rss>
